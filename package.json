@@ -5,8 +5,8 @@
   "author": "CodinCat <CodinCat@codeit.today>",
   "license": "MIT",
   "scripts": {
-    "dev": "webpack-dev-server --progress --color --hot",
-    "start": "webpack-dev-server --progress --color --hot"
+    "dev": "webpack-dev-server --progress --color",
+    "start": "webpack-dev-server --progress --color"
   },
   "devDependencies": {
     "babel-core": "^6.24.0",
